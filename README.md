@@ -1,5 +1,6 @@
 
-[![MasterHead]((https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDUkT9hCRswWx7CygMy9nrXNG_M5q05liMFw&usqp=CAU))]
+ ![Header](./[github-header-image (7)](https://github.com/himanshuyadav492/himanshuyadav492/assets/121588019/f943db7a-bc00-4d50-9ce9-6a7cf75ed3b9)
+der image])
 <h1 align="center">Hi 👋, I'm Himanshu Yadav</h1>
 <h3 align="center">A passionate Mern stak developer from India</h3>
 <img  align="right" width="500px" height="380px"alt="coding" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
