@@ -1,5 +1,5 @@
 
- ![Header](./[github-header-image (7)](https://github.com/himanshuyadav492/himanshuyadav492/assets/121588019/f943db7a-bc00-4d50-9ce9-6a7cf75ed3b9)
+ ![Header](./[github-header-image (7)]
 der image])
 <h1 align="center">Hi 👋, I'm Himanshu Yadav</h1>
 <h3 align="center">A passionate Mern stak developer from India</h3>
