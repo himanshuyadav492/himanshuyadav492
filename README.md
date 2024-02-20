@@ -2,7 +2,7 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDUkT9hCRswWx7CygMy9nrXNG_M5q05liMFw&usqp=CAU))](https://himanshuyadav492.io)
 <h1 align="center">Hi 👋, I'm Himanshu Yadav</h1>
 <h3 align="center">A passionate Mern stak developer from India</h3>
-<img  align="right" width="550px" height="380px"alt="coding" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img  align="right" width="500px" height="380px"alt="coding" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 - 🌱 I’m currently learning **react, low level design**
 
