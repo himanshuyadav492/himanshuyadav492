@@ -1,5 +1,4 @@
 
- ![Header](./[github-header-image (7)])
 <h1 align="center">Hi 👋, I'm Himanshu Yadav</h1>
 <h3 align="center">A passionate Mern stak developer from India</h3>
 <img  align="right" width="500px" height="380px"alt="coding" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
